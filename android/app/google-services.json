@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "657652018260",
+    "firebase_url": "https://flash-chat-5c0b8.firebaseio.com",
+    "project_id": "flash-chat-5c0b8",
+    "storage_bucket": "flash-chat-5c0b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657652018260:android:3f569a4cf18bf9ca9891c1",
+        "android_client_info": {
+          "package_name": "co.kabali.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657652018260-499s286jhe8a6u38a9gu1t70malgc0vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX2Yf16EifjNLg4JxM3mGh89W4M17wvXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657652018260-499s286jhe8a6u38a9gu1t70malgc0vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
