@@ -7,7 +7,7 @@ The objective is  how to incorporate Firebase into our Flutter apps. I have used
 
 ## outlook of the app
 
-I have to build a modern messaging app where users can sign up and log in to chat screen.
+I have to build a modern messaging app where users can sign up and log in to chat .
 
 ![Finished App](https://github.com/dhanunda/vedios/blob/master/ezgif.com-gif-to-mp4.gif)
 
